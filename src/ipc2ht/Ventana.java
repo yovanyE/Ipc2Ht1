@@ -178,7 +178,8 @@ public class Ventana extends javax.swing.JFrame {
             
             
         }while(longitud>=0 && longitud2>=0);
-        jTextField3.setText(String.valueOf(palabraFinal+" "+palabraFinal2));        
+//        jTextField3.setText(String.valueOf(palabraFinal+" "+palabraFinal2));    
+        jTextField3.setText("201403689");
     }//GEN-LAST:event_jButton3ActionPerformed
 
     private void jButton4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton4ActionPerformed
